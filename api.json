@@ -1,0 +1,99 @@
+[
+    {
+        "precio" : 15.00,
+        "id" : 1,
+        "title": "Perrito",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/1.jpg"
+    },
+    {
+        "precio" : 25.00,
+        "id" : 2,
+        "title": "Dog",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/2.jpg"
+    },
+    {
+        "precio" : 30.00,
+        "id" : 3,
+        "title": "Chien",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/3.jpg"
+    },
+    {
+        "precio" : 25.00,
+        "id" : 4,
+        "title": "Perrus",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/4.jpg"
+    },
+    {
+        "precio" : 15.00,
+        "id" : 5,
+        "title": "Dogss",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/5.jpg"
+    },
+    {
+        "precio" : 30.00,
+        "id" : 6,
+        "title": "Doge",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/6.jpg"
+    },
+    {
+        "precio" : 25.00,
+        "id" : 7,
+        "title": "Chucho",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/7.jpg"
+    },
+    {
+        "precio" : 15.00,
+        "id" : 8,
+        "title": "Firulais",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/8.jpg"
+    },
+    {
+        "precio" : 20.00,
+        "id" : 9,
+        "title": "Cheems",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/9.jpg"
+    },
+    {
+        "precio" : 15.00,
+        "id" : 10,
+        "title": "Salchicha",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/10.jpg"
+    },
+    {
+        "precio" : 30.00,
+        "id" : 11,
+        "title": "Bachicha",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/11.jpg"
+    },
+    {
+        "precio" : 25.00,
+        "id" : 12,
+        "title": "Solcito",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/12.jpg"
+    },
+    {
+        "precio" : 30.00,
+        "id" : 13,
+        "title": "Peggo",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/13.jpg"
+    },
+    {
+        "precio" : 30.00,
+        "id" : 14,
+        "title": "Guau guau",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/14.jpg"
+    },
+    {
+        "precio" : 40.00,
+        "id" : 15,
+        "title": "Solovino",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/15.jpg"
+    },
+    {
+        "precio" : 30.00,
+        "id" : 16,
+        "title": "Blacky",
+        "thumbnailUrl": "https://uacjmonkeprac.000webhostapp.com/1IMG/225x225/16.jpg"
+    }
+
+]
